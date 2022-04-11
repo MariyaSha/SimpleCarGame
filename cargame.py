@@ -46,7 +46,8 @@ while running:
     if counter == 5000:
         speed += 0.15
         counter = 0
-        print("level up", speed)
+        print("level up %.2f" % speed)
+        if speed>2 : print("Wahoo!  You're a speed demon.")
 
     # animate enemy vehicle
     car2_loc[1] += speed
