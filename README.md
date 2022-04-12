@@ -33,4 +33,5 @@ try GIMP, which is the open source equivalent of Photoshop
 <b>Dependancies:</b> Pygame, Random, Python 3.9
 <br>
 <br>
-![simple car game screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
+
+![simple cargame screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
