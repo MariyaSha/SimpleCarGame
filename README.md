@@ -13,13 +13,16 @@ Please feel free to use my code to create your own projects and adapt it as need
 <br>
 I highly encourage to pick different car images and customize my design to
 <br>
-create your own uniqu application without too much effort :)
+create your own unique application without too much effort :)
+<br>
+draw some trees along the way, add other types of obstacles such as roadblocks, flooding, etc.
+<br>
+maybe even load different enemy vehicle images each time they reappear on the screen.
 <br>
 you can find free stock images in the following sites:
 <br>
 - flaticom.com
 - freepik.com
-<br>
 if you want to edit those images to customize them further
 <br>
 try GIMP, which is the open source equivalent of Photoshop
