@@ -20,6 +20,7 @@ draw some trees along the way, add other types of obstacles such as roadblocks, 
 maybe even load different enemy vehicle images each time they reappear on the screen.
 <br>
 <br>
+
 ![simple cargame screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
 
 <h2>Helpful Resources</h2>
