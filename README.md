@@ -9,6 +9,22 @@ This is a very simple car game, which I'm showing how to create step by step
 in a YouTube tutorial: https://youtu.be/W-QOtdD3qx4
 <br>
 <br>
+Please feel free to use my code to create your own projects and adapt it as needed.
+<br>
+I highly encourage to pick different car images and customize my design to
+<br>
+create your own uniqu application without too much effort :)
+<br>
+you can find free stock images in the following sites:
+<br>
+- flaticom.com
+- freepik.com
+<br>
+if you want to edit those images to customize them further
+<br>
+try GIMP, which is the open source equivalent of Photoshop
+<br>
+<br>
 <b>Author:</b> Mariya
 <br>
 <b>Dependancies:</b> Pygame, Random, Python 3.9
