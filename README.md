@@ -24,6 +24,7 @@ maybe even load different enemy vehicle images each time they reappear on the sc
 <br>
 you can find free stock images in the following sites:
 <br>
+
 - flaticom.com
 - freepik.com
 <br>
@@ -38,7 +39,7 @@ if you want to edit those images to customize them further try:
 - Adobe Illustrator (paid vector image editor)
 - MS Paint (free with Windows)
 <br>
-<b>Author:</b> Mariya
+<b>Author:</b> Mariya Sha
 <br>
 <b>Dependancies:</b> Pygame, Random, Python 3.9
 <br>
