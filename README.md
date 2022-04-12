@@ -23,6 +23,7 @@ you can find free stock images in the following sites:
 <br>
 - flaticom.com
 - freepik.com
+<br>
 if you want to edit those images to customize them further
 <br>
 try GIMP, which is the open source equivalent of Photoshop
