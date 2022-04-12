@@ -21,6 +21,7 @@ maybe even load different enemy vehicle images each time they reappear on the sc
 <br>
 <br>
 ![simple cargame screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
+
 <h2>Helpful Resources</h2>
 <b>FREE IMAGE RESOURCES</b>
 <br>
