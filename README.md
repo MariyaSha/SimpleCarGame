@@ -29,7 +29,7 @@ maybe even load different enemy vehicle images each time they reappear on the sc
 you can find free stock images in the following sites:
 <br>
 
-- flaticom.com
+- flaticon.com
 - freepik.com
 <br>
 <b>IMAGE EDITING SOFTWARE</b>
