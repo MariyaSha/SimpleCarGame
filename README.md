@@ -19,10 +19,14 @@ draw some trees along the way, add other types of obstacles such as roadblocks, 
 <br>
 maybe even load different enemy vehicle images each time they reappear on the screen.
 <br>
+<b>FREE IMAGE RESOURCES</b>
+<br>
 you can find free stock images in the following sites:
 <br>
 - flaticom.com
 - freepik.com
+<br>
+<b>IMAGE EDITING SOFTWARE</b>
 <br>
 if you want to edit those images to customize them further
 <br>
