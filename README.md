@@ -8,7 +8,7 @@ This is a very simple car game, which I'm showing how to create step by step
 <br>
 in a YouTube tutorial: https://youtu.be/W-QOtdD3qx4
 <br>
-<br>
+<h2>About</h2>
 Please feel free to use my code to create your own projects and adapt it as needed.
 <br>
 I highly encourage to pick different car images and customize my design to
@@ -19,7 +19,7 @@ draw some trees along the way, add other types of obstacles such as roadblocks, 
 <br>
 maybe even load different enemy vehicle images each time they reappear on the screen.
 <br>
-<br>
+<h2>Helpful Resources</h2>
 <b>FREE IMAGE RESOURCES</b>
 <br>
 you can find free stock images in the following sites:
