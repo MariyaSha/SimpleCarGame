@@ -31,6 +31,7 @@ you can find free stock images in the following sites:
 <br>
 if you want to edit those images to customize them further try:
 <br>
+
 - GIMP (free raster image editor)
 - Inkscape (free vector image editor)
 - Adobe Photoshop (paid raster image editor)
