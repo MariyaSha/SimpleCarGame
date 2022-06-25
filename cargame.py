@@ -2,6 +2,16 @@ import pygame
 from pygame.locals import *
 import random
 
+# TO DO
+#
+# 2 Player game
+# Unicorn fires bullets
+# Shark fires lasers
+# Flip to the horizonatal
+#
+
+
+
 # shape parameters
 size = width, height = (800, 800)
 road_w = int(width/1.6)
@@ -19,21 +29,21 @@ running = True
 # set window size
 screen = pygame.display.set_mode(size)
 # set window title
-pygame.display.set_caption("Mariya's car game")
+pygame.display.set_caption("Lara's game")
 # set background colour
 screen.fill((60, 220, 0))
 # apply changes
 pygame.display.update()
 
 # load player vehicle
-car = pygame.image.load("car.png")
+car = pygame.image.load("unicorn.png")
 #resize image
 #car = pygame.transform.scale(car, (250, 250))
 car_loc = car.get_rect()
 car_loc.center = right_lane, height*0.8
 
 # load enemy vehicle
-car2 = pygame.image.load("otherCar.png")
+car2 = pygame.image.load("shark.png")
 car2_loc = car2.get_rect()
 car2_loc.center = left_lane, height*0.2
 
