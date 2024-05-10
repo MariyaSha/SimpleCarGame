@@ -8,6 +8,12 @@ This is a very simple car game, which I'm showing how to create step by step
 <br>
 in a YouTube tutorial: https://youtu.be/W-QOtdD3qx4
 <br>
+<h2>Update - May 10th 2024</h2>
+Released an additional version of the game, based on Object Oriented Programming principles.
+<br>
+You can find it in the root directory under **cargame_oop.py**
+<br>
+Enjoy! :)
 <h2>About</h2>
 Please feel free to use my code to create your own projects and adapt it as needed.
 <br>
