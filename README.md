@@ -11,7 +11,7 @@ in a YouTube tutorial: https://youtu.be/W-QOtdD3qx4
 <h2>Update - May 10th 2024</h2>
 Released an additional version of the game, based on Object Oriented Programming principles.
 <br>
-You can find it in the root directory under **cargame_oop.py**
+You can find it in the root directory under <b>cargame_oop.py</b>
 <br>
 Enjoy! :)
 <h2>About</h2>
