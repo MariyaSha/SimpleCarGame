@@ -69,10 +69,10 @@ while running:
             running = False
         if event.type == KEYDOWN:
             # move user car to the left
-            if event.key in [K_a, K_LEFT]:
+            if event.key in [K_a, K_LEFT] and car_loc.center[0] == right_lane:
                 car_loc = car_loc.move([-int(road_w/2), 0])
             # move user car to the right
-            if event.key in [K_d, K_RIGHT]:
+            if event.key in [K_d, K_RIGHT] and car_loc.center[0] == left_lane:
                 car_loc = car_loc.move([int(road_w/2), 0])
     
     # draw road
